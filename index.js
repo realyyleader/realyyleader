@@ -33,7 +33,7 @@ client.on('ready', async () => {
   console.log(`${client.user.tag} - rich presence started!`);
 
   const r = new Discord.RichPresence()
-    .setApplicationId('1265825059692609587')
+    .setApplicationId('1165740968021074030')
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/apparentlyjack_rl') 
     .setState('Hey Nitro is here')
