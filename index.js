@@ -40,9 +40,9 @@ client.on('ready', async () => {
     .setName('Flag Members')
     .setDetails(`Click the button below to join Flag Members ❗`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1041035673118965772/1270521845841657907/image_2.webp?ex=66b4012d&is=66b2afad&hm=c0fa475d23f70fc777bcea2e70d9682a9aedf2d565ae549e64552ac303361d2b&=&format=webp&width=696&height=379') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('Nitro') 
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/1041035673118965772/1270522062095781990/checked.png?ex=66b40160&is=66b2afe0&hm=1413e3f740030479e77899e2e3bebeb05f97a80e7c0b828e6ec6e9012f86255d&=&format=webp&quality=lossless&width=768&height=768') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1360004461250220295/1363501588802703471/image-6.png?ex=6806434f&is=6804f1cf&hm=ab857d51a621a46a853960fa9ab9937cfb0654536355546a705c02394016c06d&') //You can put links in tenor or discord and etc.
+    .setAssetsLargeText('servry') 
+    .setAssetsSmallImage('https://cdn.discordapp.com/avatars/1209548876877402163/53d4c6a8a937a270cf0ea121f5e93b01.png?size=1024') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
     .addButton('Flag Members', 'https://discord.gg/f-m');
 
